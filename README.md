@@ -1,7 +1,8 @@
 # Reverse-shell-bind-shell-forward-shell
 Estos son apuntes del curso de savit4ar a introducción al hacking ético
 
-![[Explicaciion grafica sobre reverse shell.png]]
+obsidian://open?vault=Introduccion%20al%20hacking%20etico&file=images%2FExplicaciion%20grafica%20sobre%20reverse%20shell.png
+
 ## PRACTICA 
 
 **Creamos un archivo Dockerfile y le colocamos lo siguiente:**

@@ -1,7 +1,7 @@
 # Reverse-shell-bind-shell-forward-shell
 Estos son apuntes del curso de savit4ar a introducción al hacking ético
 
-obsidian://open?vault=Introduccion%20al%20hacking%20etico&file=images%2FExplicaciion%20grafica%20sobre%20reverse%20shell.png
+![image](https://github.com/JJoosh/Reverse-shell-bind-shell-forward-shell/assets/122099216/285bb568-22f7-41b2-a617-39407ebd8e37)
 
 ## PRACTICA 
 
